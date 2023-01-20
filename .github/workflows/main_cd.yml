@@ -1,5 +1,4 @@
 name: Django-app workflow cd
-
 on:
   workflow_run:
     workflows: ["Django-app workflow ci"]
